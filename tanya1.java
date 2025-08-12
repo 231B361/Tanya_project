@@ -1,1 +1,4 @@
-hiii this is my new project
+class Name{
+public static void main(String args[]){
+System.out.println("Myself tanu")}}
+
